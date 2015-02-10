@@ -15,4 +15,4 @@ var sheet = (function() {
 	return style.sheet;
 })();
 
-sheet.insertRule("body, td, input, select, textarea { font-family : Verdana,sans-serif !important; font-size : 100%; }", 0);
+sheet.insertRule("body, td, input, select, textarea { font-family : Verdana,sans-serif !important; }", 0);
